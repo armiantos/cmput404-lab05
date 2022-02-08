@@ -6,11 +6,43 @@ body {
   font-size: 100%;
   font-family: "IBM Plex Sans Thai Looped", sans-serif;
   font-family: "Outfit", sans-serif;
+
+  color: #374151;
 }
 
 body > * {
   max-width: 80ch;
   margin: 0 auto;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+a {
+  color: #0891b2;
+  text-decoration: none; /* Hide underlines */
+}
+
+ul,
+ol {
+  list-style-type: none;
+  padding: 1em 0;
+  margin: 0;
+}
+
+nav > ul {
+  color: #64748b;
+}
+
+nav > ul a {
+  color: #64748b;
+}
+
+section > h2 {
+  font-size: 175%;
 }
 
 #banner {
@@ -22,9 +54,19 @@ body > * {
 }
 
 #contentinfo {
-  padding: 4em 0 2em 0;
+  padding-top: 4em;
+  padding-bottom: 2em;
 }
 
 .entry-content > p {
   text-align: justify;
+}
+
+.author {
+  color: #64748b;
+}
+
+.entry-title {
+  font-weight: 700;
+  font-size: 150%;
 }
