@@ -1,12 +1,18 @@
-html {
-  font-size: 100%;
+html,
+body {
+  padding: 0;
+  margin: 0;
 
+  font-size: 100%;
   font-family: "IBM Plex Sans Thai Looped", sans-serif;
   font-family: "Outfit", sans-serif;
 }
 
-body {
+body > * {
   max-width: 80ch;
-  margin: 4em auto 0 auto;
-  padding: 0 2em 0 2em;
+  margin: 0 auto;
+}
+
+#banner {
+  padding-top: 4em;
 }
