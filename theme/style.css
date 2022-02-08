@@ -1,0 +1,30 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+
+  font-size: 100%;
+  font-family: "IBM Plex Sans Thai Looped", sans-serif;
+  font-family: "Outfit", sans-serif;
+}
+
+body > * {
+  max-width: 80ch;
+  margin: 0 auto;
+}
+
+#banner {
+  padding-top: 4em;
+}
+
+#content {
+  padding-top: 2em;
+}
+
+#contentinfo {
+  padding: 4em 0 2em 0;
+}
+
+.entry-content > p {
+  text-align: justify;
+}
