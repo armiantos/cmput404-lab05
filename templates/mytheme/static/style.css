@@ -16,3 +16,15 @@ body > * {
 #banner {
   padding-top: 4em;
 }
+
+#content {
+  padding-top: 2em;
+}
+
+#contentinfo {
+  padding: 4em 0 2em 0;
+}
+
+.entry-content > p {
+  text-align: justify;
+}
