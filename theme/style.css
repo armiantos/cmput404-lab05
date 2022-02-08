@@ -21,20 +21,20 @@ h1 {
   font-size: 150%;
 }
 
+h2 {
+  font-size: 125%;
+}
+
 a {
   color: #0891b2;
   text-decoration: none; /* Hide underlines */
 }
 
-ul,
-ol {
+nav > ul,
+#content > ol {
   list-style-type: none;
   padding: 1em 0;
   margin: 0;
-}
-
-nav > ul {
-  color: #64748b;
 }
 
 nav > ul a {
@@ -62,11 +62,19 @@ section > h2 {
   text-align: justify;
 }
 
-.author {
-  color: #64748b;
-}
-
 .entry-title {
   font-weight: 700;
   font-size: 150%;
+}
+
+img {
+  max-width: 100%;
+}
+
+.entry-title > a {
+  color: #374151;
+}
+
+.hentry {
+  margin-bottom: 2rem;
 }

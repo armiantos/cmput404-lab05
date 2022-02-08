@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>CMPUT404 Lab 5 - Blog</title><link href="https://armiantos.github.io/cmput404-lab05/" rel="alternate"></link><link href="https://armiantos.github.io/cmput404-lab05/feeds/blog.atom.xml" rel="self"></link><id>https://armiantos.github.io/cmput404-lab05/</id><updated>2022-02-07T17:43:00-07:00</updated><entry><title>A really long article</title><link href="https://armiantos.github.io/cmput404-lab05/a-really-long-article.html" rel="alternate"></link><published>2022-02-07T17:43:00-07:00</published><updated>2022-02-07T17:43:00-07:00</updated><author><name>Armianto Sumitro</name></author><id>tag:armiantos.github.io,2022-02-07:/cmput404-lab05/a-really-long-article.html</id><summary type="html">&lt;!-- Text generated using https://www.lipsum.com/ --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>CMPUT404 Lab 5 - Blog</title><link href="https://armiantos.github.io/cmput404-lab05/" rel="alternate"></link><link href="https://armiantos.github.io/cmput404-lab05/feeds/blog.atom.xml" rel="self"></link><id>https://armiantos.github.io/cmput404-lab05/</id><updated>2022-02-07T20:37:00-07:00</updated><entry><title>An article to show off markdown</title><link href="https://armiantos.github.io/cmput404-lab05/an-article-to-show-off-markdown.html" rel="alternate"></link><published>2022-02-07T20:37:00-07:00</published><updated>2022-02-07T20:37:00-07:00</updated><author><name>Armianto Sumitro</name></author><id>tag:armiantos.github.io,2022-02-07:/cmput404-lab05/an-article-to-show-off-markdown.html</id><summary type="html">&lt;p&gt;Click here to view the wonderful world of markdown&lt;/p&gt;</summary><content type="html">&lt;!-- Text generated using https://www.lipsum.com/ --&gt;
+
+&lt;h1&gt;This is a huge title&lt;/h1&gt;
+&lt;p&gt;This is some text below the title&lt;/p&gt;
+&lt;h2&gt;This is a subsection&lt;/h2&gt;
+&lt;p&gt;Look at the following lists:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;This item is very useful&lt;/li&gt;
+&lt;li&gt;This item is kinda useful&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We also have unordered lists:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Whoa&lt;/li&gt;
+&lt;li&gt;So cool&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hyperlinks to the &lt;a href="https://www.google.com/"&gt;edge of space&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;DOGGOS&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="doge" src="https://i.kym-cdn.com/photos/images/original/000/581/296/c09.jpg"&gt;&lt;/p&gt;
+&lt;h1&gt;Text decorations&lt;/h1&gt;
+&lt;p&gt;This is an &lt;em&gt;emphasis&lt;/em&gt;. This needs to be &lt;strong&gt;bold&lt;/strong&gt;. This needs to be &lt;strong&gt;&lt;em&gt;both&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;</content><category term="Blog"></category></entry><entry><title>A really long article</title><link href="https://armiantos.github.io/cmput404-lab05/a-really-long-article.html" rel="alternate"></link><published>2022-02-07T17:43:00-07:00</published><updated>2022-02-07T17:43:00-07:00</updated><author><name>Armianto Sumitro</name></author><id>tag:armiantos.github.io,2022-02-07:/cmput404-lab05/a-really-long-article.html</id><summary type="html">&lt;!-- Text generated using https://www.lipsum.com/ --&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultrices hendrerit ipsum et rutrum. Phasellus pellentesque, neque vel blandit aliquet, purus neque consequat ligula, in gravida nisi massa ac augue. Vivamus ultricies velit non felis aliquet aliquam. Phasellus ac metus porttitor, elementum nisl ut, cursus massa. Proin consectetur ultrices faucibus …&lt;/p&gt;</summary><content type="html">&lt;!-- Text generated using https://www.lipsum.com/ --&gt;
 
