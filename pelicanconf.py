@@ -1,6 +1,6 @@
 AUTHOR = 'Armianto Sumitro'
 SITENAME = 'CMPUT404 Lab 5'
-SITEURL = 'https://armiantos.github.io/cmput404-lab05/'
+SITEURL = ''
 
 PATH = 'content'
 
